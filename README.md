@@ -2,6 +2,7 @@
 echo "Hello World" > index.html
 <h1>Grilled Cheese Sandwich</h1>
         <p>An American classic, melted cheese inbetween two peaces of crispy bread.</p>
+
 <h1>pasta </h1>
         <p>An Italian dish, a starchy food that is made from flour, eggs, and water that is made into different shapes and then boiled. It is often served with different sauces</p>
 <h1>Ladoo</h1>
@@ -15,5 +16,8 @@ echo "Hello World" > index.html
 <h1>Greek Wrap</h1>
         <p>A Greek meal, it is a variety of ingredients (cherry tomatos, feta cheese, onion) stuffed inside flatbread</p>
 <h1>Granola Bar</h1>
+        <p>A healthy snack, it is made from granola and a variety of ingredients which are pressed into a bar shape</p>
 <h1>Salad</h1>
+        <p>A healthy meal, it is a mixture of vegtables served with different sauces</p>
 <h1>Springroll</h1>
+        <p>A Asian food, savoury rolls with cabbage and other vegetable fillings inside a thinly wrapped cylindrical pastry</p>
